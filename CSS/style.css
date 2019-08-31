@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #d2fafb;
+}
+
+.mountain {
+  padding-top: 10px;
+}
+
+.image-1{
+  position: absolute;
+  top: 20px;
+  right: 130px;
+  height: 160px;
+}
+
+h1 {
+  margin-bottom: 0;
+  }
+
+.top-container {}
+
+.img {
+  position: absolute;
+  left: 90px;
+  top: 90px;
+  height: 160px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.middle-container {
+  margin-left: 260px;
+  height: 200px;
+  width: 200px;
+  background-color: #f2e3c9;
+  border: solid 20px;
+}
+
+.bottom-container {
+  margin-left: 500px;
+  height: 200px;
+  width: 200px;
+  background-color: #f3d3d3;
+  border: solid 10px;
+}

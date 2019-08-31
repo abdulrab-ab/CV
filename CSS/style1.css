@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top {
+  background-color: #d2fafb
+}
+
+.mountain {
+  padding-top: 10px;
+}
+
+.image-1 {
+  height: 160px;
+  margin: 40px 0px auto 500px;
+  margin-bottom: 0
+}
+
+.img {
+  height: 160px;
+  margin: auto 500px auto 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.dev-img {
+  margin-right: 10px;
+  border-radius: 9rem;
+  height: 13rem;
+  width: 13rem;
+  float: left;
+}
+
+.code-img {
+  margin-left: 10px;
+  border-radius: 9rem;
+  height: 13rem;
+  width: 13rem;
+  float: right;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.hr {
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  width: 10rem;
+  border-width: 5px;
+  border-color: grey;
+}
+
+.hr1 {
+  margin-top: 5rem;
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  width: 10rem;
+  border-width: 5px;
+  border-color: grey;
+}
+
+.in-touch {
+  width: 50%;
+  margin: auto;
+  margin-top: 11rem;
+}
+
+.Skills-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2
+}
+
+h1 {
+  margin: 0;
+  font-family: 'sacramento', cursive;
+  font-size: 60px;
+}
+
+#h3 {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  color: skyblue;
+}
+
+.desc {
+  margin-bottom: 2.5rem;
+  line-height: 2;
+}
+
+.Skills {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  color: skyblue;
+  font-size: 2.5rem;
+}
+
+.btn {
+  background: linear-gradient(rgb(89, 155, 179) 5%, rgb(64, 140, 153) 100%) rgb(89, 155, 179);
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 10px 25px 10px 25px;
+  text-decoration: none;
+  margin-bottom: 4rem;
+}
+
+#h4 {
+  color: skyblue;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+.Coding {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  color: skyblue;
+}
+
+.touch {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  color: skyblue;
+}
+
+.contact {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  color: skyblue;
+}
+
+.href1 {
+  color: purple;
+  padding-right: 60px;
+  position: absolute;
+  bottom: 65%;
+  right: 53%;
+  left: 48%;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  text-decoration: none;
+}
+
+.href2 {
+  color: purple;
+  padding-right: 60px;
+  position: absolute;
+  bottom: 65%;
+  right: 40%;
+  left: 25%;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  text-decoration: none;
+}
+
+.href3 {
+  color: purple;
+  padding-right: 60px;
+  position: absolute;
+  bottom: 65%;
+  right: 31%;
+  left: 55%;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #d2fafb;
+  height: 10rem;
+  position: relative;
+}
+.footer-desc{
+  padding-top: 90px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.mountain {
+  height: 350px;
+}
